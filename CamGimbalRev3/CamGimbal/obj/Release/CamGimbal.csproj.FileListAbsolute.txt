@@ -1,0 +1,14 @@
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\bin\Release\CamGimbal.exe.config
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\bin\Release\CamGimbal.exe
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\bin\Release\CamGimbal.pdb
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\bin\Release\GMap.NET.Core.dll
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.csproj.AssemblyReference.cache
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.Form1.resources
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.Properties.Resources.resources
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.csproj.GenerateResource.cache
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.csproj.CoreCompileInputs.cache
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.csproj.CopyComplete
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.exe
+C:\Users\rbina\source\repos\CamGimbal\CamGimbal\obj\Release\CamGimbal.pdb

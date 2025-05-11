@@ -1,0 +1,14 @@
+C:\Users\rbina\source\repos\Largescreen\Largescreen\bin\Debug\Largescreen.exe.config
+C:\Users\rbina\source\repos\Largescreen\Largescreen\bin\Debug\Largescreen.exe
+C:\Users\rbina\source\repos\Largescreen\Largescreen\bin\Debug\Largescreen.pdb
+C:\Users\rbina\source\repos\Largescreen\Largescreen\bin\Debug\GMap.NET.Core.dll
+C:\Users\rbina\source\repos\Largescreen\Largescreen\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.csproj.AssemblyReference.cache
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.Form1.resources
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.Properties.Resources.resources
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.csproj.GenerateResource.cache
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.csproj.CoreCompileInputs.cache
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.csproj.CopyComplete
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.exe
+C:\Users\rbina\source\repos\Largescreen\Largescreen\obj\Debug\Largescreen.pdb
